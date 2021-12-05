@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/★★★★☆-719af4?style=flat-square&logo=typescript&logoColor=719af4&label=TypeScript"/>
 <img src="https://img.shields.io/badge/★★★★★-ea2845?style=flat-square&logo=nestjs&logoColor=ea2845&label=NestJS"/>
 <img src="https://img.shields.io/badge/★★★★☆-336791?style=flat-square&logo=postgresql&logoColor=white&label=PostgreSQL"/>
+<img src="https://img.shields.io/badge/★★★☆☆-3371e3?style=flat-square&logo=kubernetes&logoColor=white&label=Kubernetes"/>
+<img src="https://img.shields.io/badge/★★★☆☆-232f3e?style=flat-square&logo=amazonaws&logoColor=orange&label=AWS"/>
 <img src="https://img.shields.io/badge/★★★☆☆-336791?style=flat-square&logo=mysql&logoColor=white&label=MySQL"/>
 <img src="https://img.shields.io/badge/★★★☆☆-2b5b84?style=flat-square&logo=python&logoColor=gold&label=Python3"/>
 <img src="https://img.shields.io/badge/★★★☆☆-0C4B33?style=flat-square&logo=django&logoColor=white&label=Django"/>
