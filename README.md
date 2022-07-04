@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/★★★☆☆-2b5b84?logo=python&logoColor=gold&label=Python3"/> <img src="https://img.shields.io/badge/★★★☆☆-0C4B33?logo=django&logoColor=white&label=Django"/>
 
-<img src="https://img.shields.io/badge/★★★☆☆-0468d7?logo=dart&logoColor=white&label=Dart"/> <img src="https://img.shields.io/badge/★☆☆☆☆-0468d7?logo=flutter&logoColor=white&label=Flutter"/>
+<img src="https://img.shields.io/badge/★★★☆☆-0468d7?logo=dart&logoColor=white&label=Dart"/> <img src="https://img.shields.io/badge/★★★☆☆-0468d7?logo=flutter&logoColor=white&label=Flutter"/>
 
 <img src="https://img.shields.io/badge/★★☆☆☆-eeeeee?sogo=java&logoColor=eeeeee&label=Java"/> <img src="https://img.shields.io/badge/★★☆☆☆-3DDC84?logo=android&logoColor=white&label=Android"/> <img src="https://img.shields.io/badge/★★☆☆☆-80ea6e?logo=springboot&logoColor=white&label=SpringBoot"/>
 
