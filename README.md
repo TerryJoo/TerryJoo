@@ -1,6 +1,6 @@
 # Terry Joo
 ## 🛠
-<img src="https://img.shields.io/badge/★★★☆☆-DE7356?logo=claude&logoColor=white&label=Claude"/>
+<img src="https://img.shields.io/badge/★★★☆☆-DE7356?logo=claude&logoColor=DE7356&label=Claude"/>
 <img src="https://img.shields.io/badge/★★★★★-719af4?logo=typescript&logoColor=719af4&label=TypeScript"/> <img src="https://img.shields.io/badge/★★★★★-ea2845?logo=nestjs&logoColor=ea2845&label=NestJS"/>
 <img src="https://img.shields.io/badge/★★★★★-0468d7?logo=dart&logoColor=white&label=Dart"/> <img src="https://img.shields.io/badge/★★★★★-0468d7?logo=flutter&logoColor=white&label=Flutter"/>
 
